@@ -11,8 +11,8 @@ const Cart = (props) => {
         <div className='sticky-top table-color'>
 
             <div className='p-4 shadow'>
-                <h3>Developer Added: {carts.length}</h3>
-                <h3>Total Cost: ${total}</h3>
+                <h4>Developer Added: {carts.length}</h4>
+                <h4>Total Cost: ${total}</h4>
                 {
                     carts.map(cart => <li className="added-developer d-flex justify-content-between align-items-center">
                         <span><img src={cart.img} alt="" /> {cart.name} </span>

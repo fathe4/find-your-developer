@@ -82,7 +82,7 @@ const Developers = () => {
         <div className='row mx-4 py-4'>
 
             <div className='col-md-9'>
-                <div className="row row-cols-1 row-cols-md-4 g-4">
+                <div className="row row-cols-1 row-cols-xl-4 row-cols-md-3 g-4">
                     {
                         developers.map(developer => <Developer handleHireBtn={handleHireBtn} key={developer.id} developer={developer}></Developer>)
                     }
