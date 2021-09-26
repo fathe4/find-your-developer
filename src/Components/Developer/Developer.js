@@ -2,6 +2,9 @@ import React from 'react';
 
 const Developer = (props) => {
     const { name, img, age, country, role, salary } = props.developer
+
+
+
     return (
         <div>
             <div className="col">
