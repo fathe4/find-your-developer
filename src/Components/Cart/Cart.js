@@ -15,7 +15,7 @@ const Cart = (props) => {
                 <h4>Total Cost: ${total}</h4>
                 {
                     carts.map(cart => <li className="added-developer d-flex justify-content-between align-items-center">
-                        <span><img src={cart.img} alt="" /> </span><span className='ms-2'> {cart.name}</span>
+                        <span><img src={cart.img} alt="" /> {cart.name}</span>
                         <i className="fas fa-user-times fs-5 me-4 remove-developer" onClick={() => props.removeDeveloper(cart.id)}></i>
                     </li>)
                 }
