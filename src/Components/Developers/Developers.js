@@ -16,10 +16,10 @@ const Developers = () => {
 
 
     // handle hire button
-    const handleHire = (developer) => {
+    const handleHireBtn = (developer) => {
 
         const newCart = [...carts, developer]
-        // 
+
         let uniqueArr = [];
         // loop through array
         for (let i of newCart) {
@@ -84,7 +84,7 @@ const Developers = () => {
             <div className='col-md-9'>
                 <div className="row row-cols-1 row-cols-md-4 g-4">
                     {
-                        developers.map(developer => <Developer handleHire={handleHire} key={developer.id} developer={developer}></Developer>)
+                        developers.map(developer => <Developer handleHireBtn={handleHireBtn} key={developer.id} developer={developer}></Developer>)
                     }
                 </div>
             </div>
