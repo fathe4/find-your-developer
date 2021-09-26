@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Jhanker Mahboob",
+        "img": "https://i.ibb.co/tpDrYXL/jhankar.png",
+        "age": 32,
+        "country": "Bangladesh",
+        "role": "React Developer",
+        "YoutubeChannel": "PRogramming Hero",
+        "salary": 20000
+    },
+    {
+        "id": 2,
+        "name": "Saidur Rahman Setu",
+        "img": "https://avatars.githubusercontent.com/u/34616507?v=4?s=400",
+        "age": 25,
+        "country": "Bangladesh",
+        "role": "JS Developer",
+        "YoutubeChannel": "JS Bangladesh",
+        "salary": 12000
+    },
+    {
+        "id": 3,
+        "name": "Nayem",
+        "img": "https://pbs.twimg.com/profile_images/1158041429161078785/4LMr5gzP_400x400.jpg",
+        "age": 26,
+        "country": "Bangladesh",
+        "role": "MERN Stack Developer",
+        "YoutubeChannel": "Stack Learner",
+        "salary": 14000
+    },
+    {
+        "id": 4,
+        "name": "Harry",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLT3EnMXtIOvDT4CL7obl0-acSZCBhMuapXBQFksVQ=s900-c-k-c0x00ffffff-no-rj",
+        "age": 27,
+        "country": "India",
+        "role": "MERN Stack Developer",
+        "YoutubeChannel": "LearnWithHarry",
+        "salary": 15000
+    },
+    {
+        "id": 5,
+        "name": "Sumit Saha",
+        "img": "https://jsbangladesh.com/wp-content/uploads/2021/05/Sumit-Saha.jpg",
+        "age": 30,
+        "country": "Bangladesh",
+        "role": "Js Developer",
+        "YoutubeChannel": "Learn With sumit",
+        "salary": 18000
+    },
+    {
+        "id": 6,
+        "name": "Anisul Islam",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLSKVDfHa1cOpwRjgKSrQXd492eXXIPGZYQ8XZNxlQ=s900-c-k-c0x00ffffff-no-rj",
+        "age": 34,
+        "country": "Bangladesh",
+        "role": "C++ developer",
+        "YoutubeChannel": "Anisul Islam",
+        "salary": 20000
+    },
+    {
+        "id": 7,
+        "name": "Darrel Wilson",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLSMkIvI51aKVZTfB1pNLm91XZANechcYVEI5afqNw=s900-c-k-c0x00ffffff-no-rj",
+        "age": 32,
+        "country": "USA",
+        "role": "Wordpress Developer",
+        "YoutubeChannel": "Darrel Wilson",
+        "salary": 25000
+    },
+    {
+        "id": 8,
+        "name": "Carfter Wilson",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLTE3D9yiboKjLp5gumHtu2Fjo0DZXVGusU6BUVdcQ=s900-c-k-c0x00ffffff-no-rj",
+        "age": 38,
+        "country": "USA",
+        "role": "Wordpress Developer",
+        "YoutubeChannel": "WordPress For Non-Techies",
+        "salary": 30000
+    },
+    {
+        "id": 9,
+        "name": "Adrian Twarog",
+        "img": "https://yt3.ggpht.com/ytc/AKedOLRlgc2WX_PlndJ73B8Uv34TZjfzxqTFwLVJIF0l2w=s900-c-k-c0x00ffffff-no-rj",
+        "age": 38,
+        "country": "USA",
+        "role": "PHP Developer",
+        "YoutubeChannel": "Adrian Twarog",
+        "salary": 22000
+    }
+]
